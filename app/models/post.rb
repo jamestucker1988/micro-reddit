@@ -1,4 +1,4 @@
 class Post < ApplicationRecord
-  belongs_to :User
-  validates :msg, presence:true
+  belongs_to :user
+  validates :msg, presence: true
 end
