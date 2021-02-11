@@ -2,10 +2,10 @@
 
 one:
   msg: MyString
-  user_id: 1
-  post_id: 1
+  user_id: 
+  post_id: 
 
 two:
   msg: MyString
-  user_id: 1
-  post_id: 1
+  user_id: 
+  post_id: 
